@@ -9,7 +9,7 @@ SSM2010
 About SSM2010
 --------------
 
-The Third Annual Workshop on Search in Social Media (`SSM 2010 <http://ir.mathcs.emory.edu/SSM2010/>`__) took place in New York on February 3rd 2010. It came to my attention because of tweets by Hilary Mason (`@hmason <http://twitter.com/hmason>`__). The topics discussed are of great interest to me nowadays (informal proceedings by all the speakers are `available in PDF format <http://ir.mathcs.emory.edu/SSM2010/proceedings.html>`__). 
+The Third Annual Workshop on Search in Social Media (`SSM 2010 <http://ir.mathcs.emory.edu/SSM2010/>`__) took place in New York on February 3rd 2010. It came to my attention because of tweets by Hilary Mason (`@hmason <http://twitter.com/hmason>`__). The topics discussed are of great interest to me nowadays. Informal proceedings by all the speakers are `available in PDF format <http://ir.mathcs.emory.edu/SSM2010/proceedings.html>`__.
 
 Notes
 ------
